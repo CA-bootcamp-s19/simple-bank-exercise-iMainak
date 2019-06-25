@@ -4197,12 +4197,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xD3B42bfe7e121FB953EbE8Fe6392Cef3063f6c6e",
-      "transactionHash": "0x342a80a6e824a5f577ed782757797ff8fadb06c0cef9b1e85ba7f2f3dee11298"
+      "address": "0xdfe3AEed2614e42Cf3e8c52aD94Ea8F0B308f9D0",
+      "transactionHash": "0x2fdc294865b5fe8acd1b383cfbbaf6ee95963d0ba3c79494acec22d0717efef1"
     }
   },
   "schemaVersion": "3.0.10",
-  "updatedAt": "2019-06-25T08:16:28.926Z",
+  "updatedAt": "2019-06-25T08:24:21.187Z",
   "devdoc": {
     "methods": {
       "deposit()": {
